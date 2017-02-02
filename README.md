@@ -1,2 +1,2 @@
 # DLite
-An approcah to build self-contained Distributed SQL database.
+An approach to build self-contained Distributed SQL database.
